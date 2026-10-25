@@ -1,0 +1,21 @@
+year,role_category,employment_count,local_pmet_percentage,median_gross_monthly_wage_sgd,vacancy_rate_percentage,source
+2020,Software Engineers & Developers,45000,72.5,6500,6.8,MOM & IMDA Tech Talent Survey
+2021,Software Engineers & Developers,52000,73.1,7200,7.9,MOM & IMDA Tech Talent Survey
+2022,Software Engineers & Developers,58500,74.0,8100,7.2,MOM & IMDA Tech Talent Survey
+2023,Software Engineers & Developers,63000,75.2,8600,5.4,MOM & IMDA Tech Talent Survey
+2020,Data Scientists & AI Specialists,12000,68.0,7200,8.4,MOM & IMDA Tech Talent Survey
+2021,Data Scientists & AI Specialists,15500,69.5,8300,9.1,MOM & IMDA Tech Talent Survey
+2022,Data Scientists & AI Specialists,19800,71.0,9500,8.6,MOM & IMDA Tech Talent Survey
+2023,Data Scientists & AI Specialists,24500,72.4,10200,7.1,MOM & IMDA Tech Talent Survey
+2020,Cybersecurity Professionals,9500,78.0,6800,7.5,MOM & IMDA Tech Talent Survey
+2021,Cybersecurity Professionals,11200,79.2,7600,8.2,MOM & IMDA Tech Talent Survey
+2022,Cybersecurity Professionals,13000,80.1,8400,7.8,MOM & IMDA Tech Talent Survey
+2023,Cybersecurity Professionals,15100,81.0,9100,6.5,MOM & IMDA Tech Talent Survey
+2020,IT Infrastructure & Cloud Engineers,32000,81.0,5800,5.2,MOM & IMDA Tech Talent Survey
+2021,IT Infrastructure & Cloud Engineers,34500,81.5,6300,6.1,MOM & IMDA Tech Talent Survey
+2022,IT Infrastructure & Cloud Engineers,37000,82.0,6900,5.8,MOM & IMDA Tech Talent Survey
+2023,IT Infrastructure & Cloud Engineers,39500,82.8,7400,4.9,MOM & IMDA Tech Talent Survey
+2020,Product & Digital Transformation Managers,18000,83.0,7500,5.9,MOM & IMDA Tech Talent Survey
+2021,Product & Digital Transformation Managers,21000,83.5,8200,6.8,MOM & IMDA Tech Talent Survey
+2022,Product & Digital Transformation Managers,24000,84.2,9000,6.2,MOM & IMDA Tech Talent Survey
+2023,Product & Digital Transformation Managers,27000,85.0,9800,5.1,MOM & IMDA Tech Talent Survey

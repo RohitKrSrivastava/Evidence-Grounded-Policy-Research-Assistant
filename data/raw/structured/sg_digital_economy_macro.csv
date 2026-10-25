@@ -1,0 +1,17 @@
+year,metric,sector,value,unit,source,notes
+2018,Value Added (VA),Infocomm Media,19.2,SGD Billion,SingStat & IMDA,Gross value added at current market prices
+2019,Value Added (VA),Infocomm Media,22.1,SGD Billion,SingStat & IMDA,Gross value added at current market prices
+2020,Value Added (VA),Infocomm Media,25.4,SGD Billion,SingStat & IMDA,Gross value added at current market prices
+2021,Value Added (VA),Infocomm Media,29.8,SGD Billion,SingStat & IMDA,Gross value added at current market prices
+2022,Value Added (VA),Infocomm Media,34.2,SGD Billion,SingStat & IMDA,Gross value added at current market prices
+2023,Value Added (VA),Infocomm Media,38.6,SGD Billion,SingStat & IMDA,Preliminary estimates
+2018,Digital Economy Share of GDP,National,13.0,Percent,IMDA Economic Analysis,Includes both ICM sector and digital economy in other sectors
+2021,Digital Economy Share of GDP,National,15.8,Percent,IMDA Economic Analysis,Includes both ICM sector and digital economy in other sectors
+2023,Digital Economy Share of GDP,National,17.7,Percent,IMDA Economic Analysis,Preliminary estimate
+2020,Enterprise AI Adoption Rate,All Industries,14.2,Percent,IMDA Annual Tech Survey,Enterprises adopting at least one AI solution
+2021,Enterprise AI Adoption Rate,All Industries,22.5,Percent,IMDA Annual Tech Survey,Enterprises adopting at least one AI solution
+2022,Enterprise AI Adoption Rate,All Industries,31.8,Percent,IMDA Annual Tech Survey,Enterprises adopting at least one AI solution
+2023,Enterprise AI Adoption Rate,All Industries,44.0,Percent,IMDA Annual Tech Survey,Accelerated by generative AI tools
+2022,Total ICM Revenue,Infocomm Media,115.4,SGD Billion,IMDA Survey,Gross operating revenue
+2023,Total ICM Revenue,Infocomm Media,128.9,SGD Billion,IMDA Survey,Gross operating revenue
+2023,Green Data Centre Capacity,ICT Infrastructure,1400.0,Megawatts,EMA & IMDA,Target operational capacity under 2030 Roadmap

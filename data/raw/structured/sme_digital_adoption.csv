@@ -1,0 +1,19 @@
+sector,year,digital_solution_adoption_rate_pct,cloud_usage_pct,cybersecurity_measures_pct,ai_adoption_pct,government_grant_beneficiaries_count,source
+Food & Beverage,2021,68.4,45.2,38.1,5.2,3200,IMDA SME Go Digital Survey
+Food & Beverage,2022,76.1,58.4,44.9,8.5,4150,IMDA SME Go Digital Survey
+Food & Beverage,2023,83.5,69.0,52.4,14.8,5300,IMDA SME Go Digital Survey
+Retail Trade,2021,72.0,52.1,41.0,7.1,3800,IMDA SME Go Digital Survey
+Retail Trade,2022,81.4,65.3,51.2,12.4,4900,IMDA SME Go Digital Survey
+Retail Trade,2023,88.2,74.5,61.8,21.5,6100,IMDA SME Go Digital Survey
+Logistics & Supply Chain,2021,74.5,61.0,49.5,9.8,2100,IMDA SME Go Digital Survey
+Logistics & Supply Chain,2022,82.0,72.4,58.0,17.2,2800,IMDA SME Go Digital Survey
+Logistics & Supply Chain,2023,89.5,81.2,67.5,28.4,3600,IMDA SME Go Digital Survey
+Precision Engineering,2021,61.2,42.0,45.0,6.5,1500,IMDA SME Go Digital Survey
+Precision Engineering,2022,70.5,53.2,54.1,11.8,1950,IMDA SME Go Digital Survey
+Precision Engineering,2023,79.1,64.8,63.0,19.2,2500,IMDA SME Go Digital Survey
+Financial Services,2021,91.0,85.0,88.0,24.0,1100,IMDA SME Go Digital Survey
+Financial Services,2022,95.2,91.4,93.5,38.5,1400,IMDA SME Go Digital Survey
+Financial Services,2023,98.1,96.2,97.0,56.0,1850,IMDA SME Go Digital Survey
+Construction,2021,52.0,34.0,29.0,3.1,1200,IMDA SME Go Digital Survey
+Construction,2022,61.5,45.1,37.2,6.4,1700,IMDA SME Go Digital Survey
+Construction,2023,71.0,57.8,47.5,11.5,2300,IMDA SME Go Digital Survey
