@@ -1,7 +1,7 @@
 # Section 2: Innovation Assessment
 ## Scaling into a Trusted, Government-Grade Policy Intelligence Capability
 
-**Repository**: [https://github.com/RohitKrSrivastava/agentic-policy-analytics](https://github.com/RohitKrSrivastava/agentic-policy-analytics)  
+**Repository**: [https://github.com/RohitKrSrivastava/Evidence-Grounded-Policy-Research-Assistant](https://github.com/RohitKrSrivastava/Evidence-Grounded-Policy-Research-Assistant)  
 **Author**: [Rohit Kumar Srivastava](https://www.linkedin.com/in/rohit-kumar-srivastava-59921352/)  
 
 
